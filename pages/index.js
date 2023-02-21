@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Subdomain Takeover by sumgr0!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         Twitter: sumgr0
         </p>
       </main>
 
