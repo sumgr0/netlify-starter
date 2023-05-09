@@ -6,17 +6,18 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Welcome!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Subdomain Takeover by sumgr0!" />
+        <Header title="STKO" />
         <p className="description">
-         Twitter: sumgr0
         </p>
       </main>
-
+<!--Takeover By @sumgr0--!>
+<!--Taken to ensure safe return to owners--!>
+<!--FIX DNS RECORDS TO RESOLVE--!>
       <Footer />
     </div>
   )
