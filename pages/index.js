@@ -13,6 +13,8 @@ export default function Home() {
       <main>
         <Header title="STKO by sumgr0" />
         <p className="description">
+          This text is not visible on the page.
+          <span style={{ display: 'none' }}>Takeover By @sumgr0</span>
         </p>
       </main>
       <Footer />
