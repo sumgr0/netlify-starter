@@ -11,13 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="STKO" />
+        <Header title="STKO by sumgr0" />
         <p className="description">
         </p>
       </main>
-<!--Takeover By @sumgr0--!>
-<!--Taken to ensure safe return to owners--!>
-<!--FIX DNS RECORDS TO RESOLVE--!>
       <Footer />
     </div>
   )
